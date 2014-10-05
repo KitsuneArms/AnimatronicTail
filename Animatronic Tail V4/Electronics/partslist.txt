@@ -1,0 +1,104 @@
+Partlist
+
+Exported from ControlBoard.brd at 9/28/2014 9:12:36 PM
+
+EAGLE Version 7.0.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                   Package               Library                                Position (inch)       Orientation
+
+C1       0.1uF                   C0603                 eagle-ltspice                          (2.02 1.35)           R0
+C2       1uF                     C0603                 eagle-ltspice                          (2.02 1.45)           R0
+C3       10uF                    C0603                 eagle-ltspice                          (2.02 1.55)           R0
+C4       22pf                    C0603                 eagle-ltspice                          (2.15 2.89)           R270
+C5       22pf                    C0603                 eagle-ltspice                          (2.15 2.59)           R90
+C6       1uF                     C0603                 eagle-ltspice                          (1.43 2.24)           R90
+C7       0.1uF                   C0603                 eagle-ltspice                          (1.34 2.24)           R90
+C8       10uF                    C0603                 eagle-ltspice                          (2.17 1.15)           R90
+C9       0.1uF                   C0603                 eagle-ltspice                          (3.45 2.35)           R180
+C10      0.1uF                   C0603                 eagle-ltspice                          (3.45 2.55)           R180
+C11      2.2nF                   C0603                 eagle-ltspice                          (3.45 2.45)           R180
+C12      0.1uF                   C0603                 eagle-ltspice                          (1.09 0.22)           R0
+C13      2.2uF                   C0603                 eagle-ltspice                          (1.04 0.77)           R180
+C14      0.1uF                   C0603                 eagle-ltspice                          (1.18 0.67)           R0
+C15      0.1uF                   C0603                 eagle-ltspice                          (1.11 0.99)           R0
+C16      1uF                     C0603                 eagle-ltspice                          (1.49 1.91)           R90
+C17      0.1uF                   C0603                 eagle-ltspice                          (0.59 1.24)           R0
+C18      0.1uF                   C0603                 eagle-ltspice                          (1.22 1.95)           R90
+C19      0.1uF                   C0603                 eagle-ltspice                          (1.59 0.86)           R270
+C20      0.1uF                   C0603                 eagle-ltspice                          (1.24 0.93)           R180
+C21      0.1uF                   C0603                 eagle-ltspice                          (1.24 1.09)           R0
+C22      0.1uF                   C0603                 eagle-ltspice                          (1.36 0.31)           R90
+C23      0.1uF                   C0603                 eagle-ltspice                          (1.27 0.31)           R90
+C24      10uF                    C0603                 eagle-ltspice                          (1.63 0.64)           R0
+C25      10uF                    C0603                 eagle-ltspice                          (1.63 0.55)           R0
+C26      22pF                    C0603                 eagle-ltspice                          (1.63 0.28)           R0
+C27      10uF                    C0603                 eagle-ltspice                          (1.42 0.85)           R0
+C28      0.1uF                   C0603                 eagle-ltspice                          (1.42 0.66)           R0
+C29      10uF                    C0603                 eagle-ltspice                          (1.3 0.61)            R270
+C30      10uF                    C0603                 eagle-ltspice                          (2.01 0.62)           R0
+C31      10uF                    C0603                 eagle-ltspice                          (2.01 0.17)           R0
+CN1                              DCJACK_2MM_PTH        adafruit                               (0.34 -0.04)          R0
+D1       BAT20JFILM              SOD-323               SparkFun-DiscreteSemi                  (1.24 1.01)           R0
+F1                               FUSE                  special                                (0.28 1.14)           R90
+F2       500mA                   R0603                 eagle-ltspice                          (2.09 0.99)           R270
+IC1      32U4                    TQFP44                adafruit                               (1.58 2.84)           R0
+IC2      MCP170312MB             SOT89                 linear                                 (2.02 1.15)           R180
+ISP1     AVRISP-6                AVRISP                adafruit                               (0.88 2.25)           R0
+L1       8.2uH                   SM-1206               inductor-neosid                        (1.38 1.01)           R270
+LED1     RED                     LED-1206              SparkFun-LED                           (3.09 0.36)           R90
+LED2     RED                     LED-1206              SparkFun-LED                           (2.98 0.36)           R90
+LED3     RED                     LED-1206              SparkFun-LED                           (2.87 0.36)           R90
+LED4     RED                     LED-1206              SparkFun-LED                           (0.72 0.77)           R90
+LED5     RED                     LED-1206              SparkFun-LED                           (0.82 0.77)           R90
+LED6     RED                     LED-1206              SparkFun-LED                           (0.92 0.77)           R90
+Q1       8Mhz                    HC49UP                crystal                                (1.98 2.74)           R270
+Q2       MOSFET-NCHANNELSI7820DN POWERPAK1212-8        SparkFun-DiscreteSemi                  (1.26 1.2)            R0
+Q3       MOSFET-NCHANNELSI7820DN POWERPAK1212-8        SparkFun-DiscreteSemi                  (1.44 1.2)            R0
+R1       22                      R0603                 eagle-ltspice                          (2.43 0.56)           R270
+R2       22                      R0603                 eagle-ltspice                          (2.53 0.56)           R270
+R3       1000                    R0603                 eagle-ltspice                          (3.09 0.19)           R270
+R4       10k                     RTRIM3299W            rcl                                    (0.23 2.6)            R0
+R5       10k                     RTRIM3299W            rcl                                    (0.48 2.6)            R0
+R6       10k                     R0603                 eagle-ltspice                          (2.63 2.62)           R180
+R7       10k                     R0603                 eagle-ltspice                          (2.63 2.82)           R180
+R8       10k                     R0603                 eagle-ltspice                          (2.63 2.72)           R180
+R9       1000                    R0603                 eagle-ltspice                          (2.98 0.19)           R270
+R10      1000                    R0603                 eagle-ltspice                          (2.87 0.19)           R270
+R11      100k                    R0603                 eagle-ltspice                          (1.09 0.32)           R180
+R12      2                       R0603                 eagle-ltspice                          (1.04 0.67)           R180
+R13      0.01                    R0603                 eagle-ltspice                          (1.18 0.77)           R180
+R14      10                      R0603                 eagle-ltspice                          (0.95 1.01)           R270
+R15      1k                      R0603                 eagle-ltspice                          (1.04 1.1)            R270
+R16      100k                    R0603                 eagle-ltspice                          (0.59 1.54)           R180
+R17      100k                    R0603                 eagle-ltspice                          (0.59 1.44)           R180
+R18      100k                    R0603                 eagle-ltspice                          (0.59 1.34)           R180
+R19      32.4k                   R0603                 eagle-ltspice                          (0.76 1.54)           R180
+R20      10k                     R0603                 eagle-ltspice                          (0.76 1.44)           R180
+R21      22.1k                   R0603                 eagle-ltspice                          (0.76 1.34)           R180
+R22      10k                     R0603                 eagle-ltspice                          (0.82 0.57)           R90
+R23      10k                     R0603                 eagle-ltspice                          (0.72 0.57)           R90
+R24      10k                     R0603                 eagle-ltspice                          (0.92 0.57)           R90
+R25      32.4k                   R0603                 eagle-ltspice                          (1.71 0.98)           R180
+R26      32.4k                   R0603                 eagle-ltspice                          (1.71 0.79)           R0
+R27      32.4k                   R0603                 eagle-ltspice                          (1.71 0.88)           R0
+R28      0.01                    R0603                 eagle-ltspice                          (1.46 0.31)           R270
+R29      500k                    R0603                 eagle-ltspice                          (1.63 0.37)           R180
+R30      100k                    R0603                 eagle-ltspice                          (1.63 0.46)           R0
+R31      1k                      R0603                 eagle-ltspice                          (1.45 0.76)           R180
+R32      100k                    R0603                 eagle-ltspice                          (1.42 0.57)           R0
+S1       SWITCH-MOMENTARY-2SMD   TACTILE-SWITCH-SMD    SparkFun-Electromechanical             (1.86 2.27)           R0
+SJ1      SOLDERJUMPERNO          SJ_2S-NO              SparkFun                               (1.98 0.85)           R270
+SV1                              MA03-1                con-lstb                               (1.96 0.28)           R180
+SV2                              MA03-1                con-lstb                               (1.96 0.51)           R180
+TP1      PTR1PAD1-13             P1-13                 testpad                                (0.72 0.44)           R0
+TP2      PTR1PAD1-13             P1-13                 testpad                                (1.98 0.95)           R270
+TP3      PTR1PAD1-13             P1-13                 testpad                                (1.98 0.74)           R270
+U$2      MPU-6050-1              QFN-24-4MM2           Testing                                (3.67 2.45)           R0
+U$3      SI7617DN-T1-GE3         POWERPAK1212-8        SparkFun-DiscreteSemi                  (1.04 0.52)           R90
+U$4      SI7617DN-T1-GE3         POWERPAK1212-8        SparkFun-DiscreteSemi                  (1.19 0.52)           R90
+U$6      SI7617DN-T1-GE3         POWERPAK1212-8        SparkFun-DiscreteSemi                  (1.41 0.46)           R180
+U1       BQ24630RGET             QFN50P400X400X100-25N Texas Instruments_By_element14_Batch_1 (1.35 1.81)           R270
+X1       MINI-USB-32005-201      32005-201             con-cypressindustries                  (2.48 0.26)           R90
+X2       332-02                  332-02                con-garry                              (2 0.39)              R90
